@@ -4,7 +4,7 @@ Oh no! A troll has raided the home of a witch, stolen her potions, and scattered
 Help the witch navigate through the forest and collect her potions while avoiding the forest's firey threats.
 
 Game Features: 
-- 2d Side Scrolling 
+- 2d Scrolling 
 - One, single level
 - Flaming Balls of Doom
 - No means of defending yourself
